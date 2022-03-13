@@ -1,0 +1,37 @@
+{	
+	"port": {
+    "name": "http://localhost:4550/users"
+  	},
+  "admin": [],
+	"users": [
+		{
+			"id": 0,
+			"name": "admin",
+			"email": "admin@mail",
+			"password": "12345"
+		},
+		{
+			"id": 1,
+			"name": "Anna",
+			"email": "anna@mail",
+			"password": "12345"
+		},
+		{
+			"id": 2,
+			"name": "Elena",
+			"email": "elena@mail",
+			"password": "12345"
+		},{
+			"id": 3,
+			"name": "Olga",
+			"email": "olga@mail",
+			"password": "12345"
+		},
+		{
+			"id": 4,
+			"name": "Marry",
+			"email": "marry@mail",
+			"password": "12345"
+		}
+	]	
+}
